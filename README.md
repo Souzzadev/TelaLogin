@@ -12,12 +12,7 @@ Este é um sistema de login simples e moderno. Ideal para ser usado como base pa
 - [Funcionalidades](#funcionalidades)  
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)  
 - [Estrutura do Projeto](#estrutura-do-projeto)  
-- [Como Rodar Localmente](#como-rodar-localmente)  
 - [Demonstração](#demonstração)  
-- [Exemplo de Código](#exemplo-de-código)  
-- [Como Contribuir](#como-contribuir)  
-- [Possíveis Melhorias](#possíveis-melhorias)  
-- [Licença](#licença)  
 - [Contato](#contato)  
 
 ---
