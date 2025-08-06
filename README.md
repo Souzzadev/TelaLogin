@@ -1,4 +1,4 @@
-# 🔐 Projeto Login Responsivo
+# 🔐 Projeto Login
 
 Bem-vindo ao **Projeto Login**!  
 Este é um sistema de login simples e moderno. Ideal para ser usado como base para aplicações web.
